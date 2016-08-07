@@ -1,0 +1,7 @@
+
+*.log
+quick-test
+test
+*/temp
+node_modules
+.git*
